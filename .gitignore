@@ -1,9 +1,4 @@
-# Ignore every top-level file and folder by default.
-/*
-
-# Keep these project files under version control.
-!/.gitignore
-!/hello.md
+.env
 AGENTS.md
 check_env.py
-hello.md
+
